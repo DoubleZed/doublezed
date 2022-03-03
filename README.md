@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Zintis and I work with Computers. 
+
+- 💬 Ask me about anything IT
 
 <!--
 **DoubleZed/doublezed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
